@@ -26,19 +26,19 @@ A simple command-line To-Do List application built using Python. This project al
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/TANISHQ-28/To-do-list.git
+git clone https://github.com/TANISHQ-28/To-do-list-.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd To-do-list
+cd To-do-list-
 ```
 
 3. Run the program:
 
 ```bash
-python todo_list.py
+python to_do_list.py
 ```
 
 ## Sample Usage
