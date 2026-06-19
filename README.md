@@ -21,12 +21,6 @@ A simple command-line To-Do List application built using Python. This project al
 * Conditional Statements
 * Exception Handling
 
-## Project Structure
-
-```text
-todo_list.py
-```
-
 ## How to Run
 
 1. Clone the repository:
@@ -38,7 +32,7 @@ git clone https://github.com/TANISHQ-28/To-do-list.git
 2. Navigate to the project directory:
 
 ```bash
-cd todo-list-python
+cd To-do-list
 ```
 
 3. Run the program:
