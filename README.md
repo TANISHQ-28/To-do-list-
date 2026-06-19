@@ -32,7 +32,7 @@ todo_list.py
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/TANISHQ-28/to-do-list.git
+git clone https://github.com/TANISHQ-28/To-do-list.git
 ```
 
 2. Navigate to the project directory:
