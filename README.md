@@ -1,79 +1,71 @@
-# To-Do List Application
+# To-Do List Manager (Python)
 
-A simple command-line To-Do List application built using Python. This project allows users to manage their daily tasks by viewing, adding, and deleting tasks through an interactive menu-driven interface.
+## About the Project
+
+This is a simple command-line To-Do List application made using Python. It allows users to store tasks in a text file and perform basic operations such as viewing, adding, and deleting tasks.
+
+I created this project to practice Python fundamentals such as:
+
+* Functions
+* Lists
+* File Handling
+* Loops
+* Exception Handling
 
 ## Features
 
-* View all tasks
-* Add new tasks
-* Delete existing tasks
-* Input validation for task deletion
-* Exception handling for invalid inputs
-* Interactive command-line menu
-* Continuous execution until the user chooses to exit
+* View all saved tasks
+* Add a new task
+* Delete an existing task
+* Tasks are stored in a text file (`tasks.txt`)
+* Handles invalid user input using exception handling
 
 ## Technologies Used
 
-* Python 3
-* Lists
-* Functions
-* Loops
-* Conditional Statements
-* Exception Handling
+* Python
 
 ## How to Run
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/TANISHQ-28/To-do-list-.git
-```
+   ```bash
+   git clone <repository-link>
+   ```
 
-2. Navigate to the project directory:
+2. Open the project folder.
 
-```bash
-cd To-do-list-
-```
+3. Run the Python file:
 
-3. Run the program:
+   ```bash
+   python main.py
+   ```
 
-```bash
-python to_do_list.py
-```
-
-## Sample Usage
+## Project Structure
 
 ```text
-1. To view tasks
-2. To add a new task
-3. To delete a task
-4. To exit the program
-
-Enter the choice: 2
-
-Enter the task you want to add: Complete Python Project
+├── main.py
+├── tasks.txt
+└── README.md
 ```
 
-## Concepts Practiced
+## What I Learned
 
-This project helped me practice:
+While building this project, I learned:
 
-* Python Functions
-* List Operations (`append`, `pop`)
-* User Input Handling
-* While Loops
-* Conditional Logic (`if`, `elif`, `else`)
-* Exception Handling (`try`, `except`)
-* Basic Program Design
+* How to read and write data from text files
+* How to use lists to manage data
+* How to handle user input safely using try-except blocks
+* How to organize code using functions
 
 ## Future Improvements
 
-* Save tasks to a file
-* Load tasks automatically when the program starts
 * Mark tasks as completed
 * Add task priorities
-* Store tasks with due dates
+* Store tasks using a database
+* Create a graphical user interface (GUI)
 
 ## Author
 
 Tanishq Soni
+
+Computer Science Student
